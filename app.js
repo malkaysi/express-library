@@ -1,4 +1,3 @@
-const catalogRouter = require("./routes/catalog"); // Import routes for "catalog" area of site
 const helmet = require("helmet");
 const compression = require("compression");
 var createError = require('http-errors');
